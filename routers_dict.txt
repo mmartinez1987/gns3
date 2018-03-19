@@ -1,0 +1,3 @@
+{'hostname': 'sp-edge-2\r\n', 'port': '2102', 'as-num':'669', 'id':edge-2'}
+{'hostname': 'sp-edge\r\n', 'port': '2112', 'as-num':'669', 'id':'edge-1'}
+
